@@ -1,0 +1,20 @@
+.header{
+    background-color: rgb(18, 236, 182);
+    border: 1px solid rgb(9, 243, 165);
+    margin-top: 5px ;
+    line-height: 35px;
+    font-size: 20px;
+    text-align: left;
+    
+}
+.header a{
+    margin-right: 25px;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    
+}
+nav a:hover{
+    background-color: cyan;
+    
+}
